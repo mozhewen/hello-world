@@ -5,4 +5,5 @@ My first repository in GitHub
 
 | in use | to learn |
 | :--- | :--- |
-| C/C++, MATLAB, Mathematica | HTML5, python |
+| C/C++, Python, MATLAB | HTML5/JS/CSS, Unity/C# |
+| Mathematica |
